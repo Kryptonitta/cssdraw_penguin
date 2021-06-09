@@ -12,4 +12,4 @@ const penguin = {
 }
 ```
 
-<h2 align='center'>✨<a href="https://kryptonitta.github.io/choose_a_gift_form/"> VISIT ME </a>✨</h2>
+<h2 align='center'>✨<a href="https://kryptonitta.github.io/cssdraw_penguin/"> VISIT ME </a>✨</h2>
